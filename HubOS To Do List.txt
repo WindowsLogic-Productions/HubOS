@@ -1,0 +1,9 @@
+1. Created desktop with custom default background.v
+2. Added HubOS menu which contains all functions of the OS.v
+3. Added System Preferences which contains various settings for the OS.v
+4. Added common programs like an internet browser and utilities.
+5. Added Date and Time dialogue.v
+6. Added Bug Reporter.v
+7. Added File Browser.
+8. 
+v = DONE
